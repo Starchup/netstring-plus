@@ -1,0 +1,21 @@
+{
+  "name": "netstring-plus",
+  "version": "1.0.0",
+  "description": "Netstring Plus encoder/decoder",
+  "author": "Eric Henke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starchup/netstring-plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starchup/netstring-plus/issues"
+  },
+  "homepage": "https://github.com/Starchup/netstring-plus#readme"
+}
